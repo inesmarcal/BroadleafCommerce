@@ -181,7 +181,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -198,7 +198,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -219,7 +219,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -363,7 +363,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <rules>
-                                <banDuplicatePomDependencyVersions />
+                                <banDuplicatePomDependencyVersions/>
                             </rules>
                         </configuration>
                         <goals>
@@ -650,7 +650,7 @@
             <dependency>
                 <groupId>commons-validator</groupId>
                 <artifactId>commons-validator</artifactId>
-                <version>1.7</version>
+                <version>1.8.0</version>
                 <exclusions>
                     <exclusion>
                         <artifactId>xml-apis</artifactId>
