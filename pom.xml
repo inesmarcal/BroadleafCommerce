@@ -43,7 +43,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <ehcache3.version>3.9.0</ehcache3.version>
-        <spring.version>5.3.31</spring.version>
+        <spring.version>5.3.34</spring.version>
         <spring.security.version>5.8.9</spring.security.version>
         <spring.boot.version>2.7.18</spring.boot.version>
         <jackson-bom.version>2.16.1</jackson-bom.version>
@@ -181,7 +181,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -198,7 +198,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -219,7 +219,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -363,7 +363,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <rules>
-                                <banDuplicatePomDependencyVersions />
+                                <banDuplicatePomDependencyVersions/>
                             </rules>
                         </configuration>
                         <goals>
